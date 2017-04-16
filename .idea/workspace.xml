@@ -46,10 +46,9 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="456">
               <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
               <folding>
-                <element signature="e#60#296#0" expanded="false" />
                 <element signature="e#400#955#0" expanded="false" />
                 <element signature="e#989#1042#0" expanded="false" />
                 <element signature="e#1083#1324#0" expanded="false" />
@@ -202,6 +201,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f136f090-32e5-4fa7-b9ec-a87cb1aa6335" name="Default" comment="" />
@@ -209,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492333658437</updated>
-      <workItem from="1492333659812" duration="3388000" />
+      <workItem from="1492333659812" duration="4467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3388000" />
+    <option name="totallyTimeSpent" value="4467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -272,10 +274,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="456">
           <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
           <folding>
-            <element signature="e#60#296#0" expanded="false" />
             <element signature="e#400#955#0" expanded="false" />
             <element signature="e#989#1042#0" expanded="false" />
             <element signature="e#1083#1324#0" expanded="false" />
